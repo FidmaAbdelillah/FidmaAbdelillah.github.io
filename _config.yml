@@ -13,9 +13,9 @@ title                    : "Fidma Abdelillah / Portfolio"
 title_separator          : "-"
 name                     : &name "Fidma Abdelillah"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://FidmaAbdelillah.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://FidmaAbdelillah.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/FidmaAbdelillah.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FidmaAbdelillah/FidmaAbdelillah.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,13 +24,13 @@ repository               : "FidmaAbdelillah/FidmaAbdelillah.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Fidma Abdelillah"
+  pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "France"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "fidmaabdelillahkhnowledgeeng@gmail.com" 
 
   # Academic websites
   academia         : # URL
