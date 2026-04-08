@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Fidma Abdelillah / Portfolio"
 title_separator          : "-"
 name                     : &name "Fidma Abdelillah"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Fidma Abdelillah's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://FidmaAbdelillah.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,23 +28,14 @@ author:
   pronouns         : # example: "he/him"  
   bio              : "PhD Student at Gustave Eiffel University"
   location         : "France"
-  employer         : "Red Brick University"
+  employer         : "Gustave Eiffel University"
   uri              : # URL
   email            : "fidmaabdelillahkhnowledgeeng@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=_OEsrIcAAAAJ&hl=en&authuser=1"
+  orcid            : "https://orcid.org/0009-0006-7187-1534"
+  researchgate     : "https://www.researchgate.net/profile/Mohamed-Fidma?ev=hdr_xprf"
 
 
   # Repositories and software development
